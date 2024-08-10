@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikechukwuUE
+- 👋 Hi, I’m @ikechukwu
 - 👀 I’m interested in Data analytics and data science
 - 🌱 I’m currently perfecting machine learning
 - 💞️ I’m looking to collaborate on data analytics projects
