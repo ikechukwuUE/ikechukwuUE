@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ikechukwu
-- 👀 I’m interested in Data analytics and data science
-- 🌱 I’m currently perfecting machine learning
-- 💞️ I’m looking to collaborate on data analytics projects
+- 👀 I’m interested in Data Analytics and Data Science
+- 🌱 Certifications on LinkedIn https://www.linkedin.com/in/ikechukwuue/
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me: ikechukwu.ue@gmail.com please send an email
 - ⚡ Fun fact: I am a medical student
 - I have a lot of projects that you'd find interesting; make sure to look around
