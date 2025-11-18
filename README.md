@@ -3,7 +3,7 @@
 - 🌱 Certifications on LinkedIn https://www.linkedin.com/in/ikechukwuue/
 - 💞️ I’m looking to collaborate on AI-driven innovative solutions and data science projects
 - 📫 How to reach me: ikechukwu.ue@gmail.com please send an email
-- ⚡ Fun fact: I am a final-year medical student at the University of Ibadan with graduation on the horizon
+- ⚡ Fun fact: I am a medical doctor who graduated from the University of Ibadan
 - I have a lot of projects that you'd find interesting; make sure to look around
 
 <!---
