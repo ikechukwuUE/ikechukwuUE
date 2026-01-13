@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ikechukwu
-- 👀 I’m an aspiring interventional radiogist and certified data scientist analyst
+- 👀 I’m an aspiring interventional radiogist and certified data scientist
 - 🌱 Certifications on LinkedIn https://www.linkedin.com/in/ikechukwuue/
 - 💞️ I’m looking to collaborate on AI-driven innovative solutions and data science projects
 - 📫 How to reach me: ikechukwu.ue@gmail.com please send an email
